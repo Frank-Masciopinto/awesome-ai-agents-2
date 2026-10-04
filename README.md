@@ -108,6 +108,7 @@ Integration of agents with APIs, nodes, and conditional process flows.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **GitHub Agentic Workflows** | CI/CD pipeline wrapper converting natural language to GitHub Action YAML files triggering matrix runners. | YAML/TS | API-based | Docker | [Link](https://github.com/github/gh-aw) |
 | **Composio** | Authentication middleware providing OAuth2 bridging and strictly-typed endpoint mapping between LLM and 3rd party APIs. | Python/TS | Hybrid | Web UI | [Link](https://github.com/ComposioHQ/composio) |
+| **Aident Loadout** | Remote MCP capability layer connecting Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup (Vault + Audit). | TypeScript | Hybrid | Web UI / MCP | [Link](https://github.com/Aident-AI/aident-skill) · [Site](https://aident.ai) |
 | **n8n** | Node-based visual workflow engine running native JS sandbox execution and asynchronous event-driven RPC triggers. | TS/Docker | Hybrid | Web UI | [Link](https://github.com/n8n-io/n8n) |
 | **PydanticAI** | Type-safe middleware guaranteeing structured JSON output adherence through hardcoded schema validation and retry loops. | Python | Hybrid | Library | [Link](https://github.com/pydantic/pydantic-ai) |
 | **Agent-Orchestrator** | Automated PR lifecycle controller validating diffs against test suites using headless execution inside ephemeral CI. | Python | API-based | CLI | [Link](https://github.com/ComposioHQ/agent-orchestrator) |
