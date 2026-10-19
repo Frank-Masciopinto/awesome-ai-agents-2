@@ -233,6 +233,7 @@ Context architecture, design manuals, and additional directories.
 | **Awesome AI Agents** | Massive E2B directory with 100+ extra repositories. | Markdown | N/A | Document | [Link](https://github.com/e2b-dev/awesome-ai-agents) |
 | **Awesome Agents (Kyrolabs)** | Extensive compilation of autonomy tools. | Markdown | N/A | Document | [Link](https://github.com/kyrolabs/awesome-agents) |
 | **Awesome AI Agents 2026** | List of emerging repositories and trends. | Markdown | N/A | Document | [Link](https://github.com/caramaschiHG/awesome-ai-agents-2026) |
+| **Awesome AI Agents (ianwieds)** | Categorized list of agent frameworks, coding and browser agents, voice, sandboxes and research. | Markdown | N/A | Document | [Link](https://github.com/ianwieds/awesome-ai-agents) |
 
 ---
 
